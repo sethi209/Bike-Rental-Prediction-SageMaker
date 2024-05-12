@@ -28,7 +28,7 @@ Setup AWS Account: Ensure you have an AWS account with necessary permissions to 
 Open cloud_training.ipynb and follow the instructions to train the model on SageMaker.
 Open cloud_prediction.ipynb to make predictions using the deployed model endpoint.
 
-#Deploy Model:
+# Deploy Model:
 Follow the instructions in the training notebook to deploy the trained model as an endpoint on SageMaker.
 
 # Test Predictions:
